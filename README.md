@@ -1,2 +1,2 @@
 # twitch-api
-Easy way to use twitch api in a website using Jquery
+Demo to show how to use twitch API in website.
